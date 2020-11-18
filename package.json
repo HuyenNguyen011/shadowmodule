@@ -1,0 +1,22 @@
+{
+  "name": "shadow1811",
+  "version": "2.2.2",
+  "description": "add shadow ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HuyenNguyen011/shadowmodule.git"
+  },
+  "keywords": [
+    "shadow"
+  ],
+  "author": "Huyen Nguyen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HuyenNguyen011/shadowmodule/issues"
+  },
+  "homepage": "https://github.com/HuyenNguyen011/shadowmodule#readme"
+}
